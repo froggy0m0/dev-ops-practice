@@ -1,3 +1,4 @@
+# version
 FROM openjdk:17-slim
 
 # Set a working directory (optional)
