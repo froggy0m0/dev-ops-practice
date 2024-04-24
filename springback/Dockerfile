@@ -1,4 +1,4 @@
-# java version 3
+# java version 4
 FROM openjdk:17-slim
 
 # Set a working directory (optional)
