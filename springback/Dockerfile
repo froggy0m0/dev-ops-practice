@@ -1,4 +1,4 @@
-# java version 5
+# java version 6
 FROM openjdk:17-slim
 
 # Set a working directory (optional)
