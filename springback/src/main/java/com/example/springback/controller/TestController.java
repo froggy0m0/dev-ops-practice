@@ -19,7 +19,7 @@ public class TestController {
 
     @GetMapping
     public String getMapping() {
-        log.info("호출횟수={} localDateTime={}", count++, localDateTime.toString());
+        log.info("호출횟수!!={} localDateTime={}", count++, localDateTime.toString());
         return "호출횟수 " + count + " var = " + var +  " -- " + localDateTime.toString() ;
     }
 }
