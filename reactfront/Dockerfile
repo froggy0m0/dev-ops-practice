@@ -1,4 +1,4 @@
-# image 2
+# image 3
 FROM node:alpine
 
 WORKDIR /app
