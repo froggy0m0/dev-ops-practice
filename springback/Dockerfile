@@ -1,4 +1,4 @@
-# java version 8
+# java version 9
 FROM openjdk:17-slim
 
 # Set a working directory (optional)
